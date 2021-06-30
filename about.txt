@@ -1,0 +1,5 @@
+Proyecto con git...
+
+-git commit: Agregar Actualizaciones
+-git log: Ver todos los comandos que hemos creado.
+-git diff: ver las diferencias

@@ -170,7 +170,7 @@ void Biseccion(){
 				//Función Más largo
 				printf("\n\t\t\t     || Tamano de Exponente: \t");
 				scanf("%i",&a);
-				if(a <= 10){
+				if(a <= 4){
 					//Creando una cadena, restando para disminuir
 					t = a; //Valor de t: toma valor de a
 					int it = t - 1; // Se crea una variable donde toma el valor de la variable y lo resta
